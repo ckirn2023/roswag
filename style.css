@@ -1,0 +1,12 @@
+.fs-img-1 {
+    /* The image used */
+  background-image: url("../r/img/ok.PNG");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
